@@ -4165,9 +4165,7 @@ a[data-fn].fn:after {
 :root .has-hazy-dawn-gradient-background {
   background: linear-gradient(135deg, #faaca8, #dad0ec);
 }
-:root .has-subdued-olive-gradient-background {
-  background: linear-gradient(135deg, #fafae1, #67a671);
-}
+
 :root .has-atomic-cream-gradient-background {
   background: linear-gradient(135deg, #fdd79a, #004a59);
 }
