@@ -4299,7 +4299,7 @@ html :where(.is-position-sticky) {
   padding-right: 30vh !important;
   padding-bottom: 30vh !important;
   padding-left: 30vh !important;
-  background-image: url(./assets/img/about_banner.jpg) !important;
+  background-image: url(../assets/img/about_banner.jpg) !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
