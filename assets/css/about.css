@@ -4165,7 +4165,9 @@ a[data-fn].fn:after {
 :root .has-hazy-dawn-gradient-background {
   background: linear-gradient(135deg, #faaca8, #dad0ec);
 }
-
+:root .has-subdued-olive-gradient-background {
+  background: linear-gradient(135deg, #fafae1, #67a671);
+}
 :root .has-atomic-cream-gradient-background {
   background: linear-gradient(135deg, #fdd79a, #004a59);
 }
@@ -4294,12 +4296,13 @@ html :where(.is-position-sticky) {
 }
 
 
+
 .vc_custom_1697332326933 {
   padding-top: 30vh !important;
   padding-right: 30vh !important;
   padding-bottom: 30vh !important;
   padding-left: 30vh !important;
-  background-image: url(../assets/img/about_banner.jpg) !important;
+  background-image: url(.././img/about_banner.jpg) !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
